@@ -1,0 +1,29 @@
+body {
+    color: black;
+}
+
+footer {
+    border: 1px solid black;
+    padding: 0 25px;
+}
+
+.message, .message-two {
+    background-color: pink;
+    border: 1px solid green;
+}
+
+.main, .message-two {
+    font-family: "Arial";
+}
+
+.message-two {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+body {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
